@@ -54,7 +54,7 @@ else
 fi
 ---
 
-### ✅ stop-vm.sh
+## ✅ stop-vm.sh
 
 Checks if the VM is already deallocated. If not, stops the VM.
 
