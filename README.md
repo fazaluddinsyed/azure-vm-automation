@@ -52,7 +52,8 @@ else
     az vm start --resource-group "$resourceGroup" --name "$vmName"
     echo "VM started successfully."
 fi
----
+```
+
 
 ## ✅ stop-vm.sh
 
