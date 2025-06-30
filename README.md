@@ -33,7 +33,7 @@ azure-vm-automation/
 
 ## 📄 Scripts Explained
 
-### ✅ start-vm.sh
+## ✅ start-vm.sh
 
 Checks if the VM is already running. If not, starts the VM.
 
